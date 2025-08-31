@@ -66,6 +66,7 @@ _**Actionable Plans**_
 | Mentors → Enrollments       | Remove      | No direct link; connection should flow through Students.                                                                  | –           |
 | Mentors → Payments          | Remove      | No relation; Payments link through Enrollments, not Mentors.                                                              | –           |
 | Mentors → ParentEngagement  | Remove      | No shared key; unrelated entities.                                                                                        | –           |
+| Mentors → Students          | Keep        | One mentor can guide multiple students. Clear parent–child relationship.                                                  | One to Many |
 | Courses → Assessments       | Remove      | Assessments are linked via Enrollments. Direct link would be redundant.                                                   | –           |
 | Courses → Enrollments       | Keep        | One course can have many enrollments.                                                                                     | One to Many |
 | Courses → Payments          | Remove      | Payments are tied to Enrollments, not directly to Courses.                                                                | –           |
@@ -77,7 +78,7 @@ _**Actionable Plans**_
 
 **3. Relationship Model**
 
-![Relationship Model](https://github.com/CallmeNavin/P10_Edtech_Analysis/blob/main/Version%201/Relationship_Model_PowerBI.png)
+![Relationship Model](https://github.com/CallmeNavin/P10_Edtech_Analysis/blob/main/Version%201/Visualization/Relationship%20Model%20w%20PowerBI.png)
 
 _**F. About Me**_
 
