@@ -76,7 +76,7 @@ _**Actionable Plans**_
 | Assessments → Payments      | Remove      | No common key between Assessments and Payments. No logical relationship.                                                  | –           |
 | Payments → ParentEngagement | Remove      | No business relationship even though both have `student_id`; joining would cause many-to-many ambiguity and double-count. | –           |
 
-**3. Relationship Model**
+**3. Relationship Model (Star Schema)**
 
 ![Relationship Model](https://github.com/CallmeNavin/P10_Edtech_Analysis/blob/main/Version%201/Visualization/Relationship%20Model%20w%20PowerBI.png)
 
