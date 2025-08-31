@@ -1,9 +1,13 @@
-# P10_Edtech_Analysis
+# P10_Edtech Analysis
+
+**VERSION 1 - ANALYSIS WITH POWER BI**
 
 **A. Project Overview**
 
-- This project 
+- This project analyzes the company’s performance across seven key areas: Assessments, Courses, Enrollments, Mentors, Parent Engagement, Payments, and Students.
+- The goal is to identify core problems and uncover opportunities for improvement.
 
+![Dashboard Visulization](https://github.com/CallmeNavin/P10_Edtech_Analysis/blob/main/Version%201/Visualization/Overview.png)
 _Explore more insights in the full Power BI dashboard_
 
 **B. Dataset Information**
@@ -15,7 +19,7 @@ _Explore more insights in the full Power BI dashboard_
 
 **Period**
 
-x
+- Synthetic dataset simulating academic year 2024–2025.
 
 **Assumption (For Relationship Model in Power BI)**
 - ParentEngagement Table Assumption:
@@ -25,21 +29,31 @@ x
 
 **C. Methodoly**
 
-x
+Data Cleaning in Excel → Relationship Modeling in Power BI → Visualization → Insight & Action Plan
 
-**II. Key Findings & Actionable Plans**
+**D. Key Findings & Actionable Plans**
 
-_**Key Findings**_
+_**Key Overview Findings**_
 
-- x
+- Avg Payment > Avg Course Price → students are often paying more than the listed course price (due to combo purchases, multiple enrollments, or additional fees). Regardless of the reason, this indicates customers are willing to pay higher → positive signal.
+- Attendance Rate ~70% → not low but should be increased to at least 80% to ensure higher learning quality and assessment outcomes expected from a reputable EdTech center. Homework completion rate is also close to Attendance Rate, therefore both need to be raised together (≥80%).
+- Assessment Score ~70% → the center must deliver more outstanding academic results in order to compete with schools and leverage in marketing.
+
+**_Key Problems_**
+
+- Status – around ~50% of students are dropped/no-show. Reasons include: course schedule mismatch, low parent engagement from the start, and lack of follow-up after enrollment.
+- Parent Feedback – evenly distributed (1/3 Good, 1/3 Average, 1/3 Poor), showing no strong satisfaction pattern → too average, not competitive enough.
+- Mentor Specialization imbalance – Physical Education only accounts for ~1/3. Some mentors are overloaded → quality decreases, students less motivated → completion rate drops.
+
+→ High incomplete enrollment status + Average parent feedback + Mentor imbalance → Low attendance + Low homework completion → Assessment Score stuck around 70 (not outstanding).
 
 _**Actionable Plans**_
 
-- x
-
-**III. Roadmap & Guidelines** 
-
-
+- AVG Payment, AVG Course Price: Maintain the current healthy pricing strategy while improving transparency in cost explanation to strengthen parents’ trust and ensure stable enrollment inflow.
+- Increase Attendance Rate, Homework Completion Rate to ≥80% to push Assessment Score up to at least 85: Handle 03 key problems:
+  + Improve early-stage engagement: stronger interaction immediately after enrollment, involve parents from the start, and better screen students before enrollment (need test/interview to validate motivation).
+  + Transform “Average” feedback into “Good”, creating a competitive edge and motivating parents to push their children to attend: Increase communication by regular studying reports, two-way feedback (parents contribute → center responds); encouraging parents to join “Parent Day” to directly see student progress.
+  + Rebalance mentors, Recruit additional Physical Education mentors.
 
 **E. Appendix**
 
