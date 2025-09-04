@@ -42,8 +42,8 @@ _**Key Overview Findings**_
 **_Key Problems_**
 
 - Status – around ~50% of students are dropped/no-show. Reasons include: course schedule mismatch, low parent engagement from the start, and lack of follow-up after enrollment.
-- Parent Feedback – evenly distributed (1/3 Good, 1/3 Average, 1/3 Poor), showing no strong satisfaction pattern → too average, not competitive enough.
 - Mentor Specialization imbalance – Physical Education only accounts for ~1/3. Some mentors are overloaded → quality decreases, students less motivated → completion rate drops.
+- Parent Feedback – evenly distributed (1/3 Good, 1/3 Average, 1/3 Poor), showing no strong satisfaction pattern → too average, not competitive enough.
 
 → High incomplete enrollment status + Average parent feedback + Mentor imbalance → Low attendance + Low homework completion → Assessment Score stuck around 70 (not outstanding).
 
