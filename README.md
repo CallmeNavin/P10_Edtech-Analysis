@@ -7,7 +7,7 @@
 - This project analyzes the company’s performance across seven key areas: Assessments, Courses, Enrollments, Mentors, Parent Engagement, Payments, and Students.
 - The goal is to identify core problems and uncover opportunities for improvement.
 
-![Dashboard Visulization](https://github.com/CallmeNavin/P10_Edtech_Analysis/blob/main/Version%201/Visualization/Overview.png)
+![Dashboard Visulization](https://github.com/CallmeNavin/P10_Edtech-Analysis/blob/main/Version%201/Visualization/Dashboard.png)
 _Explore more insights in the full Power BI dashboard_
 
 **B. Dataset Information**
